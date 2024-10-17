@@ -1,0 +1,17 @@
+{
+    "name": "raft/user-package",
+    "require": {
+        "laravel/framework": "^8.50"
+    },
+    "autoload": {
+        "psr-4": {
+            "Raft\\UserPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "r.titi",
+            "email": "r.titi@wewebit.com"
+        }
+    ]
+}
